@@ -142,7 +142,7 @@
 | 灵茶山艾府 | endlesscheng | <a href="https://leetcode.cn/u/endlesscheng/" target="_blank">灵茶山艾府</a> | - |
 | codeforces-go | EndlessCheng | <a href="https://github.com/EndlessCheng/codeforces-go/tree/master" target="_blank">codeforces-go</a> | - |
 | Hello算法 | - | <a href="https://www.hello-algo.com/" target="_blank">Hello算法</a> | - |
-| Deep-ML | - | <a href="https://www.deep-ml.com/" target="_blank">Deep-ML</a> | AI届的力扣 |
+| Deep-ML | - | <a href="https://www.deep-ml.com/" target="_blank">Deep-ML</a> | AI界的力扣 |
 
 ### Others
 | 名称 | 作者/组织 | 链接 | 备注 |
