@@ -9,6 +9,11 @@
 <details>
 <summary>更新日志</summary>
 
+
+#### 2025.11.20
+第三次更新 添加了
+- New
+
 #### 2025.11.18
 第二次更新 添加了
 - 基础教程 
@@ -23,6 +28,7 @@
 ## 目录
 - [目录](#目录)
 - [LLM](#llm)
+  - [New](#new)
   - [基础教程](#基础教程)
   - [LLM实战](#llm实战)
   - [官网](#官网)
@@ -40,6 +46,13 @@
   - [Others](#others-1)
 
 ## LLM
+
+### New
+| 网站 | 作者/组织 | 链接 | 备注 |
+| --- | --- | --- | --- |
+| AntiGravity | Google | [AntiGravity](https://antigravity.google/) | Google Agent 编程工具,目前(2025.11.20)可免费使用Gemini-3.0,Window平台可能有Bug |
+| Coze | coze | [Coze](https://www.coze.com/open/docs/zh_cn/wel%20come.html) | 无代码搭建agent |
+
 ### 基础教程
 | 网站 | 作者/组织 | 链接 | 备注 |
 | --- | --- | --- | --- |
